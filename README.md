@@ -13,7 +13,33 @@ This repository is a representation of a chess engine using pure Java.
 
 ## Package com.chess.engine<a name="packageone" />
 
-Helolo 
+### Engine Contents
+
+1. [Board](#board)
+2. [Openings](#openings)
+3. [Pieces](#pieces)
+4. [Player](#player)
+5. [Player-AI](#player-ai)
+
+#### Board <a name="board" />
+
+hdhkdjh
+
+#### Openings <a name="openings" />
+
+kjhkjh
+
+#### Pieces <a name="pieces"/>
+
+khjkhk
+
+#### Player <a name="player" />
+
+kjhkjh
+
+#### Player AI <a name="player-ai" />
+
+kjhkjhkjh
 
 ## Package com.chess.gui<a name="packagetwo" />
 
