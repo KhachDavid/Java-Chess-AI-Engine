@@ -83,6 +83,12 @@ This repository is a representation of a chess engine using pure Java.
 
 ## Games Database<a name="sql-games" />
 
+This SQL database contains 2.5 million chess games. All of them were scraped from https://pgnmentor.com.
+Java code connects to a PostgreSQL database. Thus, commands in the source code are tailored for a local PostgreSQL database
+To run the code, install pgadmin4, create a database called "chess" and run the following file.
+
+## Note: The file is 1 GB ## 
+
 [Link]
 ⋮
 [1]: https://drive.google.com/file/d/1vr0vLnZxNj7YCMhwCtdAd4ULZw4OSwQj/view
