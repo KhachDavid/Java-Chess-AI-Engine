@@ -23,31 +23,63 @@ This repository is a representation of a chess engine using pure Java.
 
 ### Board <a name="board" />
 
-hdhkdjh
+//Board Description//
 
 ### Openings <a name="openings" />
 
-kjhkjh
+//Openings Description//
 
 ### Pieces <a name="pieces"/>
 
-khjkhk
+//Pieces Description//
 
 ### Player <a name="player" />
 
-kjhkjh
+//Player Description//
 
 ### Player AI <a name="player-ai" />
 
-kjhkjhkjh
+//Player AI Description//
 
 ## Package com.chess.gui<a name="packagetwo" />
 
-he
+### GUI Contents
+
+1. [Game History Panel](#ghpanel)
+2. [Game Setup](#gsetup)
+3. [Table](#table)
+4. [Taken Pieces Panel](#tppanel)
+
+### Game History Panel <a name="ghpanel" />
+
+//Board Description//
+
+### Game Setup <a name="gsetup" />
+
+//Openings Description//
+
+### Table <a name="table"/>
+
+//Pieces Description//
+
+### Taken Pieces Panel <a name="tppanel" />
+
+//Player Description//
 
 ## Package com.chess.pgn<a name="packagethree" />
 
-fgfd
+### PGN and FEN
+
+1. [PGN](#PGN)
+2. [FEN](#FEN)
+
+### PGN <a name="PGN"/>
+
+//Pieces Description//
+
+### FEN <a name="FEN" />
+
+//Player Description//
 
 ## Games Database<a name="sql-games" />
 
@@ -60,13 +92,3 @@ fgfd
 [Link]
 ⋮
 [2]: https://drive.google.com/file/d/1vr0vLnZxNj7YCMhwCtdAd4ULZw4OSwQj/view
-
-
-
-
-Create a virtual environment in the directory:
-```
-$ virtualenv env
-```
-
-
