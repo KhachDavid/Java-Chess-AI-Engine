@@ -92,7 +92,7 @@ To run the code, install pgadmin4, create a database called "chess" and run the 
 
 [Link]
 ⋮
-[1]: https://drive.google.com/file/d/1vr0vLnZxNj7YCMhwCtdAd4ULZw4OSwQj/view
+[1]: https://drive.google.com/file/d/1f9xMq7j9mKcWuoMxl4JPBc0_E4XxGv1x/view?usp=sharing
 
 ## Demo<a name="demo"/>
 
