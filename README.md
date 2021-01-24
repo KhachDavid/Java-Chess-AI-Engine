@@ -1,6 +1,6 @@
 # Java Chess AI Engine
 
-This repository is a representation of a chess engine using pure Java. 
+This repository is a representation of a chess engine using pure Java. It is inspired by Bill Jordan's "How to build a chess engine" and by Joshua Bloch's "Effective Java".
 
 # Table of Contents
 
